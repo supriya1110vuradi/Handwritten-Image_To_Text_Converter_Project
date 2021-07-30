@@ -1,1 +1,1 @@
-# Handwritten_To_Text_Convertor
+# Handwritten Image To Text Convertor Project 
